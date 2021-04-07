@@ -15,8 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/nameless-taiga-04904',
+mongoose.connect (process.env.MONGODB_URI || 'mongodb://localhost/nameless-taiga-04904',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
