@@ -13,7 +13,7 @@
 * [Technology](#technology)
 * [Usage](#usage)
   * [Deployment](#deployment)
-  * [Screenshots](#screenshots)
+  * [Screenshot](#screenshot)
 * [Screenshots](#screenshots)
 * [Credits](#credits)
 * [Contact](#contact)
@@ -41,11 +41,10 @@ The application was deployed with a MongoDB database to Heroku. A [MongoDB Atlas
 
 Click [Budget Tracker](https://nameless-taiga-04904.herokuapp.com/) to deploy application.
 
-### Screenshots
+### Screenshot
 
 <p align= "center">
-<img src="" alt="app" width="600px">
-<img src="" alt="app" width="600px">
+<img src="public/img/app.png" alt="app" width="600px">
 </p>
 
 
